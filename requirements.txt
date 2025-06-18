@@ -1,0 +1,6 @@
+pandas
+vaderSentiment
+transformers
+torch
+matplotlib
+requests
